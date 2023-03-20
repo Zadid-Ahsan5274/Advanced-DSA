@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1679325827 source:f:\c++_advanced-dsa\firstclass\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
+1679326552 f:\c++_advanced-dsa\firstclass\sortedtype.h
+	<iostream>
+
+1679325460 source:f:\c++_advanced-dsa\firstclass\main.cpp
+	<iostream>
+	"sortedtype.h"
+	"sortedtype.cpp"
+
+1679325396 f:\c++_advanced-dsa\firstclass\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
