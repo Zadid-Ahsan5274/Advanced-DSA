@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1681094429 source:f:\projects\dsa\assignment[sortedlist]\main.cpp
+	<iostream>
+	"sortedtype.h"
+	"sortedtype.cpp"
+
+1681094487 f:\projects\dsa\assignment[sortedlist]\sortedtype.h
+	<iostream>
+
+1681094467 f:\projects\dsa\assignment[sortedlist]\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
+1681184105 source:f:\projects\dsa\assignment[sortedlist]\sortedtype.cpp
+	<iostream>
+	<cmath>
+
