@@ -25,9 +25,9 @@ class Graph {
 		for (int i = 0; i < V; i++) {
 			System.out.print("Node " + i);
 			for (int x : graph.get(i)) {
-				System.out.println(" -> " + x);
-				System.out.println();
+				System.out.print(" -> " + x);
 			}
+			System.out.println();
 		}
 	}
 
